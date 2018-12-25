@@ -1,0 +1,14 @@
+{
+  "name": "machinelearningexamples",
+  "version": "1.0.0",
+  "description": "This is first example dir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.14.1"
+  }
+}
